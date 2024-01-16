@@ -27,7 +27,7 @@ sample_size = st.slider('Set the size of the sample for each group, e.g. "1000" 
           min_value = 0,
            max_value=10000,
             value=1000,
-             step=100, key = "Sample size per group")
+             step=10, key = "Sample size per group")
 st.markdown("\n \n")
 
 ### CREATE CONTROL GROUP VALUES
