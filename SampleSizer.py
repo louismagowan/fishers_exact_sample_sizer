@@ -32,9 +32,9 @@ st.header("Enter Inputs", divider="rainbow")
 # Set sample size for each group
 sample_size = st.slider('Set the size of the sample for each group, e.g. "1000" means 1000 people in treatment and 1000 in control', 
         min_value = 0,
-        max_value=10000,
-            value=1000,
-            step=50, key = "Sample size per group")
+        max_value=5000,
+            value=150,
+            step=25, key = "Sample size per group")
 st.markdown("\n \n")
 
 ### CREATE CONTROL GROUP VALUES
