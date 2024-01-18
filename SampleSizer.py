@@ -2,9 +2,9 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-from scipy.stats import fisher_exact, beta
-import pymc as pm
-import arviz as az
+from scipy.stats import fisher_exact#, beta
+# import pymc as pm
+# import arviz as az
 
 
 
