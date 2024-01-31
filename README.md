@@ -1,2 +1,2 @@
 # fishers_exact_sample_sizer
-Quick sample size estimator for Fishers' Exact testing
+Quick sample size estimator Streamlit app for Fishers' Exact testing
